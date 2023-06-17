@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Notes"
+        android:id="@+id/notes"
+        android:icon="@drawable/baseline_content_paste_24"/>
+    <item android:title="Checklist"
+        android:id="@+id/checklist"
+        android:icon="@drawable/outline_check_box_24"/>
+    <item android:title="Done"
+        android:id="@+id/done"
+        android:icon="@drawable/baseline_star_border_24"/>
+</menu>
